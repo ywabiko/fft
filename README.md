@@ -1,9 +1,17 @@
-FFT
+FFT (Fast Fourier Transform)
 ===
 
-FFT code for my own study purpose only.
+[Fast Fourier Transform; FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform) code for my own study purpose only.
+
+This code implements following 3 types.
+
+  - 64bit double version
+  - 64bit float version 
+  - 64bit fixed-point float version (32bit integer + 32bit decimal)
+
 See main() in ffttest.cpp for how to use.
 
+  
 
 Acknowledgements
 ==============
